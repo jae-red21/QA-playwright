@@ -1,0 +1,14 @@
+{
+    "newPost": {
+        "title": "Data Driven Testing",
+    "body": "This payload is coming from a JSON file.",
+    "userId": 5
+    },
+
+    "invalidPost": {
+        "title": "",
+        "body": "",
+        "userId": 1
+    }
+
+}
